@@ -1,11 +1,3 @@
-vless://d07cb271-a482-4974-a112-ea7e335a3136@141.101.114.13:443?type=ws&security=tls&path=%2Fvless&host=sgovh1.v2vless.xyz&sni=sgovh1.v2vless.xyz#sshocean-suib
-
-vless://4f9fd5ea-01c4-459b-a8f1-cb235c520d96@141.101.114.13:443?type=ws&security=tls&path=%2Fvless&host&sni=us2.v2vless.xyz#sshocean-tong
-
-vless://a29ef1cd-d9d9-4b62-90ba-268cd6614c73@141.101.114.13:443?type=ws&security=tls&path=%2Fvless&host=sg2.v2vless.xyz&sni=sg2.v2vless.xyz#sshocean-xing
-
-vless://e81a731f-1076-4f83-b02c-248998d2cdb7@141.101.114.13:443?type=ws&security=tls&path=%2Fvless&host=uk3.v2vless.xyz&sni=uk3.v2vless.xyz#sshocean-bang
-
-vless://2391c212-d1e4-4aa6-9c18-5e9ab482200f@141.101.114.13:443?type=ws&security=tls&path=%2Fvless&host=us1.v2vless.xyz&sni=us1.v2vless.xyz#sshocean-hao
-
-vless://b2d371b0-a41e-41d2-8498-5a3767f8fe75@141.101.114.13:443?type=ws&security=tls&path=%2Fvless&host=jp1.v2vless.xyz&sni=jp1.v2vless.xyz#sshocean-yig
+vless://ee88c7bd-0611-4dca-937d-a47b7e8bf660@198.41.209.42:443?type=ws&security=tls&path=%2Fvless&host=us1.v2vless.xyz&sni=us1.v2vless.xyz#sshocean-tiant
+vless://b93af840-c0df-499b-9022-63371b725225@198.41.209.42:443?type=ws&security=tls&path=%2Fvless&host=jp1.v2vless.xyz&sni=jp1.v2vless.xyz#sshocean-xiat
+vless://3932ea66-7728-4971-b07c-181400f0bbb2@198.41.209.42:443?type=ws&security=tls&path=%2Fvless&host=uk1.v2vless.xyz&sni=uk1.v2vless.xyz#sshocean-zhou
