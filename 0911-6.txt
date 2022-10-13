@@ -1,2 +1,1 @@
-vless://2d98199a-3d10-4124-b9f7-92ca21c3383d@172.64.154.153:443?type=ws&security=tls&path=%2Fvless&host=bg1.v2vless.xyz&sni=bg1.v2vless.xyz#sshocean-ikol
-vless://c5396415-f344-489d-b029-44217f5b1e42@172.64.154.153:443?type=ws&security=tls&path=%2Fvless&host=us3.v2vless.xyz&sni=us3.v2vless.xyz#sshocean-ujik
+vless://d0750d73-e5f4-479f-b717-1aac7f85a40d@172.64.154.153:443?type=ws&security=tls&path=%2Fvless&host=vn1.v2vless.xyz&sni=vn1.v2vless.xyz#sshocean-wer
