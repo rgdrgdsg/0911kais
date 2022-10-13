@@ -1,4 +1,2 @@
-vless://4a48e0c8-212f-47ef-a92e-340a5805f249@198.41.209.23:443?type=ws&security=tls&path=%2Fvless&host=id5.v2vless.xyz&sni=id5.v2vless.xyz#sshocean-bdgj
-vless://181258e8-124c-479e-a274-2ad1112c3784@198.41.209.23:443?type=ws&security=tls&path=%2Fvless&host=sg5.v2vless.xyz&sni=sg5.v2vless.xyz#sshocean-xinjiap
-vless://0ebbba17-6ec3-4a36-84db-e4c3a0298669@198.41.209.23:443?type=ws&security=tls&path=%2Fvless&host=sg3.v2vless.xyz&sni=sg3.v2vless.xyz#sshocean-xinjp
-vless://cd552ab9-f963-4cdb-8ba5-cf260b5be364@198.41.209.23:443?type=ws&security=tls&path=%2Fvless&host=id6.v2vless.xyz&sni=id6.v2vless.xyz#sshocean-tbpb
+vless://e7373242-9aec-4011-8d06-c64f327c3e10@172.64.154.153:443?type=ws&security=tls&path=%2Fvless&host=uk1.v2vless.xyz&sni=uk1.v2vless.xyz#sshocean-edfr
+vless://8060e6a1-8c80-47eb-984f-4aaf55c718ac@172.64.154.153:443?type=ws&security=tls&path=%2Fvless&host=uk2.v2vless.xyz&sni=uk2.v2vless.xyz#sshocean-yhju
