@@ -1,5 +1,3 @@
-vless://648531d1-cf55-4356-8e05-60e3996944f5@141.101.114.230:443?type=ws&security=tls&path=%2Fvless&host&sni=pl1.v2vless.xyz#sshocean-888
+vless://7099cef2-ee7c-4d5a-a1eb-5dd672dc0ec2@141.101.114.230:443?type=ws&security=tls&path=%2Fvless&host&sni=md1.v2vless.xyz#sshocean-yhn
 
-vless://27ee36fb-d31f-4769-a506-f21dba92c376@141.101.114.230:443?type=ws&security=tls&path=%2Fvless&host&sni=ch1.v2vless.xyz#sshocean-765
-
-vless://0f41c8f8-143f-4475-aef0-73ed42fbfce8@141.101.114.230:443?type=ws&security=tls&path=%2Fvless&host&sni=sg1.v2vless.xyz#sshocean-456
+vless://4e6d6a05-e422-4dcf-a71a-3d1a2bea35d4@l141.101.114.230:443?type=ws&security=tls&path=%2Fvless&host&sni=lu1.v2vless.xyz#sshocean-qwe
